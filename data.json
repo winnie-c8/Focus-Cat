@@ -1,0 +1,209 @@
+{
+  "allTasks": [
+    {
+      "name": "new task 1",
+      "dateCreated": "2026-03-06"
+    }
+  ],
+  "numTasks": 1,
+  "hoursFocused": 0.43333333333333335,
+  "coins": 26,
+  "series": [
+    {
+      "year": 2026,
+      "month": 3,
+      "day": 4,
+      "value": 0.4166666666666667
+    },
+    {
+      "year": 2026,
+      "month": 4,
+      "day": 8,
+      "value": 0.016666666666666666
+    }
+  ],
+  "itemsBought": [
+    {
+      "name": "Black Cat",
+      "price": 0,
+      "prerequisiteIndex": -1,
+      "x": 950,
+      "y": 500,
+      "width": 400,
+      "height": 400,
+      "layer": 10,
+      "isSold": true,
+      "isVisible": true
+    }
+  ],
+  "allItems": [
+    {
+      "name": "Black Cat",
+      "price": 0,
+      "prerequisiteIndex": -1,
+      "x": 950,
+      "y": 500,
+      "width": 400,
+      "height": 400,
+      "layer": 10,
+      "isSold": true,
+      "isVisible": true
+    },
+    {
+      "name": "Grey Cat",
+      "price": 150,
+      "prerequisiteIndex": -1,
+      "x": 930,
+      "y": 345,
+      "width": 400,
+      "height": 400,
+      "layer": 9,
+      "isSold": false,
+      "isVisible": true
+    },
+    {
+      "name": "Brown Cat",
+      "price": 150,
+      "prerequisiteIndex": 9,
+      "x": 135,
+      "y": 350,
+      "width": 530,
+      "height": 555,
+      "layer": 5,
+      "isSold": false,
+      "isVisible": true
+    },
+    {
+      "name": "Orange Cat",
+      "price": 150,
+      "prerequisiteIndex": 12,
+      "x": 1275,
+      "y": 30,
+      "width": 300,
+      "height": 300,
+      "layer": 8,
+      "isSold": false,
+      "isVisible": true
+    },
+    {
+      "name": "Calico Cat",
+      "price": 150,
+      "prerequisiteIndex": 12,
+      "x": 1275,
+      "y": 500,
+      "width": 285,
+      "height": 265,
+      "layer": 11,
+      "isSold": false,
+      "isVisible": true
+    },
+    {
+      "name": "White Cat",
+      "price": 150,
+      "prerequisiteIndex": 10,
+      "x": 540,
+      "y": 355,
+      "width": 480,
+      "height": 510,
+      "layer": 6,
+      "isSold": false,
+      "isVisible": true
+    },
+    {
+      "name": "Ragdoll Cat",
+      "price": 150,
+      "prerequisiteIndex": -1,
+      "x": 550,
+      "y": 200,
+      "width": 350,
+      "height": 350,
+      "layer": 7,
+      "isSold": false,
+      "isVisible": true
+    },
+    {
+      "name": "Hanging Plant",
+      "price": 70,
+      "prerequisiteIndex": -1,
+      "x": 850,
+      "y": -20,
+      "width": 520,
+      "height": 510,
+      "layer": 12,
+      "isSold": false,
+      "isVisible": true
+    },
+    {
+      "name": "Floor Plant",
+      "price": 70,
+      "prerequisiteIndex": -1,
+      "x": -125,
+      "y": 385,
+      "width": 475,
+      "height": 515,
+      "layer": 13,
+      "isSold": false,
+      "isVisible": true
+    },
+    {
+      "name": "Cardboard Box",
+      "price": 50,
+      "prerequisiteIndex": -1,
+      "x": 135,
+      "y": 350,
+      "width": 530,
+      "height": 555,
+      "layer": 4,
+      "isSold": false,
+      "isVisible": true
+    },
+    {
+      "name": "Cat Bed",
+      "price": 40,
+      "prerequisiteIndex": -1,
+      "x": 520,
+      "y": 380,
+      "width": 560,
+      "height": 570,
+      "layer": 3,
+      "isSold": false,
+      "isVisible": true
+    },
+    {
+      "name": "Bookshelf",
+      "price": 100,
+      "prerequisiteIndex": -1,
+      "x": 645,
+      "y": -50,
+      "width": 545,
+      "height": 625,
+      "layer": 1,
+      "isSold": false,
+      "isVisible": true
+    },
+    {
+      "name": "Cat Tree",
+      "price": 100,
+      "prerequisiteIndex": -1,
+      "x": 1095,
+      "y": 175,
+      "width": 600,
+      "height": 600,
+      "layer": 2,
+      "isSold": false,
+      "isVisible": true
+    },
+    {
+      "name": "Curtains",
+      "price": 60,
+      "prerequisiteIndex": -1,
+      "x": 0,
+      "y": 0,
+      "width": 1550,
+      "height": 800,
+      "layer": 0,
+      "isSold": false,
+      "isVisible": true
+    }
+  ]
+}
