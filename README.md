@@ -1,6 +1,5 @@
 # About the Project
 A Java app that helps you stay focused and cuts distractions while you work. I started Focus-Cat for a client struggling to stay productive while balancing school, work, and extracurriculars. I interviewed the client about what they needed, designed the interface, and coded the whole thing by hand in Java. 
-Created for IB HL Computer Science Internal Assesment. 
 
 <img width="1953" height="1077" alt="image" src="https://github.com/user-attachments/assets/b63de082-1277-4eed-9881-303581ccd933" />
 
